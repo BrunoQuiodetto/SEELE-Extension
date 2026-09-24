@@ -1,0 +1,28 @@
+{
+  "name": "seele",
+  "description": "Evangelion Theme for Visual Studio Code",
+  "displayName": "SEELE - Nerv and Evangelion Themes",
+  "version": "0.0.1",
+  "icon": "assets/icon.jpg",
+  "keywords": ["theme","evangelion","evangerion","shogoki","eva","shinji","brunoquiodetto", "seele", "nerv"],
+  "publisher": "BrunoQuiodetto",
+  "engines": {"vscode":"^1.80.0"},
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+        {
+            "label": "Evangerion Shogōki (EVA-01)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Evangerion Shogōki (EVA-01).json"
+        }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce publish --no-yarn"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
