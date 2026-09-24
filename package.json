@@ -6,6 +6,10 @@
   "icon": "assets/icon.jpg",
   "keywords": ["theme","evangelion","evangerion","shogoki","eva","shinji","brunoquiodetto", "seele", "nerv"],
   "publisher": "BrunoQuiodetto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoQuiodetto/SEELE-Extension"
+  },
   "engines": {"vscode":"^1.80.0"},
   "categories": ["Themes"],
   "contributes": {
