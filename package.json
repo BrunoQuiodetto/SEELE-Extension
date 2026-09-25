@@ -2,7 +2,7 @@
   "name": "seele",
   "description": "Evangelion Theme for Visual Studio Code",
   "displayName": "SEELE - Nerv and Evangelion Themes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "assets/icon.jpg",
   "keywords": ["theme","evangelion","evangerion","shogoki","eva","shinji","brunoquiodetto", "seele", "nerv"],
   "publisher": "BrunoQuiodetto",
